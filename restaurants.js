@@ -42,4 +42,3 @@ exports.default = [
         distance: '12',
     },
 ];
-t;

@@ -39,4 +39,4 @@ export default [
       closeHour: '23',
       distance: '12',
     },
-  ];t
+  ];
