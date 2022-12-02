@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const restaurants_1 = require("./restaurants");
+const restaurants_1 = require("../restaurants");
 const hour = new Date().getHours();
 const dollarSigns = '$$';
 const deliveryTimeMax = '90';
